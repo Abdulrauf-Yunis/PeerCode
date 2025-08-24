@@ -24,7 +24,7 @@ This project demonstrates **real-world engineering depth**:
 
 ##  Architecture
 
-### High-level overview
+### Overview
 - **Frontend (React + TypeScript)** — Monaco editor, CRDT sync, replay UI  
 - **Realtime Gateway (Node.js + WebSocket)** — handles Yjs document sync & presence  
 - **Sandbox Runner (Docker + Redis queue)** — spins up ephemeral containers for code execution  
