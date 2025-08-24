@@ -1,5 +1,5 @@
 # PeerCode
-a# 🖊️ PeerCode — Real-time Collaborative Code Editor with Sandboxed Runner
+  PeerCode — Real-time Collaborative Code Editor with Sandboxed Runner
 
 PeerCode is a collaborative coding platform that lets multiple users **edit code in real time (CRDT-powered)**, run it in **secure ephemeral sandboxes**, and **replay sessions** for training, interviews, and team collaboration.  
 
