@@ -12,7 +12,7 @@ This project demonstrates **real-world engineering depth**:
 
 ---
 
-## 🚀 Features
+##  Features
 - **Real-time code editing** — powered by CRDTs (Yjs), multiple users edit simultaneously without conflicts.  
 - **Presence indicators** — see collaborator cursors & usernames live.  
 - **Sandboxed code execution** — Docker containers with CPU/memory limits, streamed logs.  
@@ -22,7 +22,7 @@ This project demonstrates **real-world engineering depth**:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### High-level overview
 - **Frontend (React + TypeScript)** — Monaco editor, CRDT sync, replay UI  
